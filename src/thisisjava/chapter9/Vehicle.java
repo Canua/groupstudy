@@ -1,0 +1,5 @@
+package thisisjava.chapter9;
+
+public interface Vehicle {
+	public void run();
+}
