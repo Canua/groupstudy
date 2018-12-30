@@ -6,7 +6,6 @@ public class Exercise6_7 {
 		System.out.println(p.getDistance(2, 2));
 	}
 }
-
 class MyPoint {
 	static int x;
 	static int y;

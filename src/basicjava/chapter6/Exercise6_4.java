@@ -9,7 +9,6 @@ public class Exercise6_4 {
 		s.eng = 70;
 		s.math = 87;
 		s.kor = 83;
-
 		System.out.println("총점은 : " + s.getTotal());
 		System.out.println("평균은 : " + s.getAverage());
 		System.out.println(s.info());

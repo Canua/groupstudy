@@ -16,7 +16,6 @@ public class Exercise6_21 {
 		t.volumeUp();
 		System.out.println("CH : " + t.channel + ", VOL : " + t.volume);
 	}
-
 }
 
 class MyTv {

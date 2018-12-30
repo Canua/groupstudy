@@ -19,5 +19,6 @@ class Exercise6_20 {
 		System.out.println(java.util.Arrays.toString(original));
 		int[] result = shuffle(original);
 		System.out.println(java.util.Arrays.toString(result));
+		
 	}
 }

@@ -12,7 +12,6 @@ public class Exercise6_22 {
 				return false;
 			}
 		}
-
 		return true;
 	}
 
